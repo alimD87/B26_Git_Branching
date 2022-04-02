@@ -7,5 +7,6 @@ public class TC001 {
         System.out.println("More Testing");
 
         System.out.println("Still doing class testing");
+        System.out.println("He still wants more");
     }
 }
