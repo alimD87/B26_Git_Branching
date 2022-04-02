@@ -5,5 +5,8 @@ public class TC002 {
         //Test case 2
 
         //writing smoke test..
+
+        System.out.println("creating a report ");
+        System.out.println("screenshot in failure ");
     }
 }
